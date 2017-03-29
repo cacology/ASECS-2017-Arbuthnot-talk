@@ -20,6 +20,11 @@ headertext:
 \setupalign[flushleft,nothyphenated]
 \setupbodyfont[libertine,10pt]
 
+The most up-to-date version of this paper is
+stored
+[https://cacology.github.io/ASECS-2017-Arbuthnot-talk/](https://cacology.github.io/ASECS-2017-Arbuthnot-talk/) where
+you can also see the slides
+
 It's a pleasure to present on such a varied panel and I'm particularly
 eager for your feedback.  This talk represents some, very little bit,
 of the content of my dissertation but--largely--an experiment in a way
