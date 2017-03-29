@@ -24,7 +24,7 @@ It's a pleasure to present on such a varied panel and I'm particularly
 eager for your feedback.  This talk represents some, very little bit,
 of the content of my dissertation but--largely--an experiment in a way
 of talking about reading matter in the early part of the
-eighteenth-century.  I'm going to try to tell you a three-century old
+eighteenth century.  I'm going to try to tell you a three-century old
 joke based on mathematics: let's have at it.
 
 It's a commonplace that the supposed 'age of reason' might be better
@@ -91,11 +91,11 @@ a formality, as nothing could be published in the journal without
 first being read at the Society.^[Arbuthnot's response to Justice
 Chamberlayne from 30 April 1711, thanking him for his comments,
 suggests that even if Arbuthnot was in attendance at the meeting, his
-paper's exposure to an audience was in the
-journal.[@arbuthnot06:corr, p. 140--141]] It's possible that he was
-at the meeting, had someone else read the paper, and the unedited
-manuscript was handed off to the printer, but I think it far more
-likely that he sent his manuscript to be read without attending.
+paper's exposure to an audience was in the journal.[@arbuthnot06:corr,
+p. 140--141]] It's possible that Arbuthnot was at the meeting, had
+someone else read the paper, and the unedited manuscript was handed
+off to the printer, but I think it far more likely that he sent his
+manuscript to be read without attending.
 
 Not attending and having something read in was fairly common.
 Arbuthnot's only other article in the *Transactions* was included in
@@ -116,13 +116,13 @@ F is one out of two.
 
 ## (M+F)^2^
 
-This can be extended to two births, both either M or F, but
-multiplied together.  If you remember foil, from algebra, you'll see
-the expansion here is M squared, 2 MF, F squared.  This makes sense
+This can be extended to two births, both either M or F, but multiplied
+together.  If you remember foil, from algebra, you'll see the
+expansion here is M squared, 2 MF, F squared.  This makes sense
 because there is only one way to get two Ms, male birth followed by
-male birth; there's only one way to get two Fs, female birth followed
-by female birth; and, there's two ways to get MF: a male birth
-followed by a female birth, or a female birth followed by a male one.
+male birth; there's only one way to get two Fs, female followed by
+female; and, there's two ways to get MF: a male birth followed by
+a female birth, or a female birth followed by a male one.
 
 ## (M+F)^n^
 
@@ -135,10 +135,10 @@ It's a straightforward matter to see that the coefficients of each of
 the terms are mirrored across the middle and he spends some time
 explaining how to calculate this.
 
-Thus--and this is the critical bit--in the left half of the formula, Ms
-dominate; there are more Ms than Fs. So, half the terms had more
-M than F, well, nearly, so half is a good estimate, certainly for
-large n of the likelihood of more male than female births.
+Thus--and this is the critical bit--in the left half of the formula,
+Ms dominate; there are more Ms than Fs for half the possibilities. So,
+half the terms had more M than F, well, nearly, so half is a good
+estimate, certainly for large n.
 
 ## Data slides
 
@@ -155,7 +155,7 @@ Chance will be near an infinitely small Quantity."  Thus, "it is Art,
 not Chance, that governs."
 
 Arbuthnot continues, "From hence it follows, that Polygamy is contrary
-to the Law of Nature and Justice, and to the Propagation of Human
+**to the Law** of Nature and Justice, and to the Propagation of Human
 Race; for where Males and Females are in equal number, if one Man
 takes Twenty Wives, Nineteen Men must live in Celibacy, which is
 repugnant to the Design of Nature; nor is it probably that Twenty
@@ -267,16 +267,16 @@ paper: "Among innumerable Footsteps of Divine Providence to be found
 in the Works of Nature."  The late Robert Boyle had endowed "an Annual
 Salary for some Divine or Preaching Minister, ... to preach eight
 sermons in the year for proving the Christian Religion against
-notorious infidels"^[@bentley92:folly A2^r^] Boyle wanted to
-demonstrate the connection between natural philosophy and proper
-religion.  Richard Bentley gave the first eight sermons over the year
-1692, which focused on what we would now call intelligent design,
-where he talks about seeing "visible footsteps" or "divine footsteps."
-And, this word "footsteps" comes to be associated with traces of divine:
-a peculiar topic for the *Transactions*.  I can find no other paper
-arguing directly for the existence of God, just using God as a sort of
-topos for appreciating nature or beauty.  (though, there's a lot to
-read, so I'd welcome any listeners who know of one)
+notorious infidels"^[@bentley92:folly A2^r^], connecting natural
+philosophy with proper religion.  Richard Bentley gave the first eight
+sermons over the year 1692, which focused on what we would now call
+intelligent design, where he talks about seeing "visible footsteps" or
+"divine footsteps."  And, this word "footsteps" comes to be associated
+with traces of divine: a peculiar topic for the *Transactions*.  I can
+find no other paper arguing directly for the existence of God, just
+using God as a sort of topos for appreciating nature or beauty.
+(though, there's a lot to read, so I'd welcome any listeners who know
+of one)
 
 More to the point of this panel, Arbuthnot is using representations of
 data to argue for the existence of a deity.  Since the math turns out
@@ -294,14 +294,14 @@ find *Space* a real being."^[@pope09:dunciad4, p. 277] Arbuthnot was
 the most informed of the Scriblerians regarding mathematics, so the
 knowledge for this satire of the over-reach of mathematics seems most
 likely to have come from him.  The objects ridiculed here are
-mathematicians who ignore the physical reality of the world in favor
-of metaphysical-like musings on abstract possibilities.  Somewhat like
+mathematicians who ignore physical reality in favor of
+metaphysical-like musings on abstract possibilities.  Somewhat like
 a proof of God that ignores a portion of the data in favor of its
 own conclusion.
 
-Even the *Memoirs of Scriblerus*--yet more closely associated with
+The *Memoirs of Scriblerus*--yet more closely associated with
 Arbuthnot's writing--play on the same image of mathematics as engaged
-in political arithmetic with Scriblerus's publication
+in political arithmetic with one of Scriblerus's publications
 
 ## Scribelerius
 
@@ -311,21 +311,31 @@ been brought-up as Blaise Pascal--instructed in mathematics from an
 early age--produces execrable scholarship later on.  The object of the
 satire here would seem to fall fairly closely to what Arbuthnot
 himself was doing.  Yet, his satire works in subtle ways.
-In analyzing Arbuthnot's *The Art of Political Lying* Conal Condren
-observes that it's not quite so simple as taking the *Art* as a Tory
-tract, that points out inconsistencies in Whiggish thought.  But, that
-it "draws on and ironically generalizes from the way in which mutual
-accusations about lying, cheating, and misinformation played their
-part in maintaining, or even creating group identity.  It was almost
-a presupposition of debate that opposing parties were always
-dishonest, dishonesty helped explain why they existed.  Most generally
-characterized, Arbuthnot's satire exposed this common belief by
-pretending to take it with deadly literalness."^[@condren97:satire,
-p. 17] That is, Arbuthnot's *Art* takes the technique of manipulating
-truth and lays it on all of humanity, not a certain crowd, by
-following the same sort of approach used by Pascal in his *Provincial
-Letters*, a sort of earnest explanation to someone who may not
-understand the subtlety of the sorts of political arguments going on.
+Analyzing Arbuthnot's *The Art of Political Lying* Conal Condren
+observes that it's not a party tract; it's not a Tory accusation of
+bad Whiggish thought, but accuses everyone of manipulating truth to
+their own ends.  He says "Arbuthnot's satire exposed ... [the] common
+belief [that lying, cheating, and misinformation played their part in
+creating group identity] by pretending to take it with deadly
+literalness."^[@condren97:satire, p. 17] Following Pascal in his
+*Provincial Letters*, Arbuthnot seems present an earnest explanation
+to someone who may not understand the subtlety of the sorts of
+political arguments going on. ^[In analyzing Arbuthnot's *The Art of
+Political Lying* Conal Condren observes that it's not quite so simple
+as taking the *Art* as a Tory tract, that points out inconsistencies
+in Whiggish thought.  But, that it "draws on and ironically
+generalizes from the way in which mutual accusations about lying,
+cheating, and misinformation played their part in maintaining, or even
+creating group identity.  It was almost a presupposition of debate
+that opposing parties were always dishonest, dishonesty helped explain
+why they existed.  Most generally characterized, Arbuthnot's satire
+exposed this common belief by pretending to take it with deadly
+literalness."^[@condren97:satire, p. 17] That is, Arbuthnot's *Art*
+takes the technique of manipulating truth and lays it on all of
+humanity, not a certain crowd, by following the same sort of approach
+used by Pascal in his *Provincial Letters*, a sort of earnest
+explanation to someone who may not understand the subtlety of the
+sorts of political arguments going on.]
 
 ## Article again
 
@@ -345,7 +355,7 @@ understanding of political lying.  It's also possible that his
 the claim he wanted to make, but meant to give an interesting example
 to encourage further research.  In this case, we have a sort of
 boosterism of mathematics at the expense of reality for purposes of
-education--a political lie.
+education--another political lie.
 
 Second, perhaps he *meant* the article to be an elaborate
 straight-faced joke about the limitations of mathematics.  Before we
