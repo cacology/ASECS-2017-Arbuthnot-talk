@@ -12,6 +12,8 @@ plate [*1*]\
 
 Plate of figures 1--4 [**169 (π1^r^)**: NYPL]
 
+![](27n328pl.JPG)
+
 # 
 ![](27-p186.JPG)
 
